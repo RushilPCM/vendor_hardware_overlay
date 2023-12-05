@@ -324,7 +324,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redmi8a \
 	treble-overlay-xiaomi-redmi9 \
 	treble-overlay-xiaomi-redmi9-systemui \
-	treble-overlay-xiaomi-redmi9a \
+	treble-overlay-xiaomi-redmia2 \
 	treble-overlay-xiaomi-redmi9t \
 	treble-overlay-xiaomi-redmigo \
 	treble-overlay-xiaomi-redmik20pro \
